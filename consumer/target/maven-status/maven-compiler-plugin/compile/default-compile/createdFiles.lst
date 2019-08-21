@@ -1,0 +1,3 @@
+br\com\joaofolle\consumer\model\Order.class
+br\com\joaofolle\consumer\OrderConsumer.class
+br\com\joaofolle\consumer\ConsumerAppConfig.class

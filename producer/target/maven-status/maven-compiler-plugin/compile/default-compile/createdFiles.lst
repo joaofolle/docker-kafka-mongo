@@ -1,0 +1,3 @@
+br\com\joaofolle\producer\controller\OrderController.class
+br\com\joaofolle\producer\ProducerAppConfig.class
+br\com\joaofolle\producer\OrderProducer.class
